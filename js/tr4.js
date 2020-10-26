@@ -69,5 +69,4 @@ function resultat(){
 	  choix[2][1] = 0;
 	  console.log("Vous avez tout perdus !");  
   }
-	console.log(resultat());
 }
